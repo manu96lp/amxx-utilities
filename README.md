@@ -16,3 +16,7 @@ Utilities is a simple "library" that provides a set of functions for solving com
 - Block player speed changes
 - Block the addition of new items
 ```
+
+## Profile
+
+I used to give help and share projects at AMXMODX-ES. You can see [my profile](https://amxmodx-es.com/Manu) for more information.
